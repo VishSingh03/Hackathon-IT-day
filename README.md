@@ -1,5 +1,6 @@
 # Hackathon Project Submission for IT day on the problem of agricultre.
 
+
 Note :- By default only credentials usable for login is User : "Admin" pass : "user123" since we are still working on the users login repository
 
 We have developed an interactive site which deals with the problems that a farmer faces while buying the equipments.
