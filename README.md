@@ -2,6 +2,7 @@
 
 
 Note :- By default only credentials usable for login is User : "Admin" pass : "user123" since we are still working on the users login repository
+Link to site :- https://farming-hackathon-it.netlify.app/
 
 We have developed an interactive site which deals with the problems that a farmer faces while buying the equipments.
 We made it easy for them to find the equipments/machinery at an effective price short listed by our team.
